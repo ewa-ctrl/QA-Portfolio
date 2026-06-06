@@ -43,4 +43,5 @@ Passed
 Postman
 ## Evidence
 Screenshot from Postman showing successful execution
-![API Test Screenshot](Screenshots/Screenshot 2026-06-06 at 18.48.54.png)
+
+![API Test Screenshot](Screenshots/API-001_GET_All_Posts.png)
