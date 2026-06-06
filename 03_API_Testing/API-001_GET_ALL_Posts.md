@@ -44,4 +44,4 @@ Postman
 ## Evidence
 Screenshot from Postman showing successful execution
 
-![API Test Screenshot](Screenshots/API-001_GET_All_Posts.png)
+![API Test Screenshot](Screenshots/API-001_GET_ALL_posts.png)
