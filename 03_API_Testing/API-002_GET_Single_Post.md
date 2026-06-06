@@ -32,3 +32,4 @@ Passed
 ## Tested Tool
 Postman 
 ## Evidence
+![API Test Screenshot](Screenshots/API-002_GET_Single_Post.png) 
