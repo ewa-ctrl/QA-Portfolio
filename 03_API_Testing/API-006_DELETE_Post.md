@@ -33,3 +33,4 @@ Passed
 Postman
 ## Evidence
 Screenshot from Postman showing successful DELETE request
+![API Test Screenshot](Screenshots/API-006_DELETE_Post.png)
