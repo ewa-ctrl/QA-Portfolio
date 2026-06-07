@@ -31,5 +31,5 @@ Passed
 ## Tested Tool
 Postman
 ## Evidence
-Screen shot from postman showing response for non-existing post.
-
+Screenshot from postman showing response for non-existing post.
+![API Test Screenshot](Screenshots/API-003_GET_Non_Existing_Post.png)
