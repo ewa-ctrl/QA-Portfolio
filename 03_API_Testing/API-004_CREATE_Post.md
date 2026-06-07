@@ -41,3 +41,4 @@ Passed
 Postman
 ## Evidence 
 Screenshot form postman showing successful POST request.
+![API Test Screenshot](Screenshots/API-004_CREATE_Post.png)
