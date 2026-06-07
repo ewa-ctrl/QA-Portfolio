@@ -11,6 +11,8 @@ GET https://jsonplaceholder.typicode.com/posts/1
 
 -Post Id = 1
 
+-Title is not empty
+
 ## Result
 Passed
 ## Tool 
