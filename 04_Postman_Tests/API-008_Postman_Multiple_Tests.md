@@ -1,6 +1,8 @@
 # API-008 Postman Multiple Tests
 ## Objective
 Verify API response using multiple automated Postman tests.
+## Request
+GET https://jsonplaceholder.typicode.com/posts/1
 ## Tests Performed
 
 -Status code = 200
