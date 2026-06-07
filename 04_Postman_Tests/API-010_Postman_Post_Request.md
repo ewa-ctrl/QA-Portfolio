@@ -29,3 +29,4 @@ Passed
 Postman
 ## Evidence
 Screenshot
+![API Test Screenshot](../03_API_Testing/Screenshots/API-010_Postman_POST_Request.png)
