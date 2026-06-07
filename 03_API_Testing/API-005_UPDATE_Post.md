@@ -32,3 +32,4 @@ Passed
 Postman
 ## Evidence
 Screenshot form postman showing successful PUT request
+![API Test Screenshot](Screenshots/API-005_UPDATE_Post.png)
