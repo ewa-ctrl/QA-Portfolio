@@ -20,12 +20,17 @@ json
  
 }
 ## Test Performed
+
 -Status code = 200
+
 -Title was Updated 
+
 -User ID = 1
+
 ## Result
 Passed
 ## Tool
 Postman
 ## Evidence
 Screeenshot
+![API Test Screenshot](../03_API_Testing/Screenshots/API-011_Postman_PUT_Request.png)
