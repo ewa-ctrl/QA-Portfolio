@@ -13,3 +13,4 @@ Passed
 Postman
 ## Evidence
 Screenshot: 
+![API Test Screenshot](Screenshots/API-007_Postman_Test_Status_200.png)
