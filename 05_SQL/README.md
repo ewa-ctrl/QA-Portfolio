@@ -9,7 +9,7 @@ This folder contains SQL exercises completed using PostgreSQL and pgAdmin 4.
 
 ## Topics Covered
 
-### 1. Create Database
+### 1. Database Setup
 Created a database called:
 
 ```sql
@@ -115,6 +115,20 @@ FROM users;
 
 Screenshots of executed queries and results are stored in the `Screenshots` folder.
 
+
+- SQL_001_Create_Table.png
+- SQL_002_Insert_Users.png
+- SQL_003_Select_All.png
+- SQL_004_Update_User.png
+- SQL_005_Like_Query.png
+- SQL_006_Count_Users.png
+- SQL_007_Select_Columns.png
+- SQL_008_Insert_Multiple_Records.png
+- SQL_009_Delete_User.png
+- SQL_010_Verification.png
+- SQL_011_Where_Filter.png
+- SQL_012_Order_By.png
+  
 ## Skills Demonstrated
 
 - Database creation
